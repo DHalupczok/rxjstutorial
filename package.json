@@ -1,0 +1,17 @@
+{
+  "name": "rxjstutorial",
+  "version": "1.0.0",
+  "description": "First training of rxjs library",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "rxJS"
+  ],
+  "author": "Denis Halupczok",
+  "license": "ISC",
+  "dependencies": {
+    "rxjs": "^7.5.5"
+  }
+}
